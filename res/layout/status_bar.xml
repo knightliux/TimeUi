@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:text="@string/mac"
+        android:textColor="@color/text_white"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/status_mac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_white"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="30dp"
+        android:gravity="center_vertical"
+        android:text="@string/version"
+        android:textColor="@color/text_white"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/status_ver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        android:textColor="@color/text_white"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@id/status_bar_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/transport"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+       
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+          
+             >
+        
+
+        <ImageView
+            android:id="@id/status_bar_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_usb"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@id/status_bar_lan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/transport"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@id/status_bar_wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/transport"
+            android:visibility="gone" />
+
+        <com.bestbaan.moonbox.view.DigitalClock
+            android:id="@+id/digitalClock1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="30dp"
+            android:textSize="20sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

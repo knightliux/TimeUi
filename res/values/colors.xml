@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_white">#f2f2f2</color>
+    <color name="text_whiteAll">#FFFFFF</color>
+    <color name="text_black">#222222</color>
+    <color name="text_whitehalf">#d257e1</color>
+</resources>

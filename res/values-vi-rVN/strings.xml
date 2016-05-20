@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time TV</string>
+    <string name="chinese_simple">中文简体</string>
+    <string name="english">English</string>
+    <string name="Vietnamese">tiếng Việt</string>
+    <string name="Chinese_traditional ">中文繁體</string>
+    <string name="japan">日本語</string>
+    <string name="korea">한국의</string>
+    <string name="index">Trang Chính</string>
+    <string name="apps">Ứng dụng</string>
+    <string name="app_manager">Quản Lý Ứng Dụng</string>
+    <string name="setting">Cài Đặt</string>
+    <string name="my_moonbox">MoonBox</string>
+    <string name="has_to_first">Đầu Trang</string>
+    <string name="has_to_last">Trang Cuối</string>
+    <string name="unstall">Tháo Bỏ</string>
+    <string name="to_desktp">Đem Ra Trang Chính</string>
+    <string name="cancel_to_desktp">Xoá Khỏi Trang Chính</string>
+    <string name="desktop_noapp_prompt">Chưa Có Ứng Dụng</string>
+    <string name="mac">MAC:</string>
+    <string name="hardware_name">Phiên Bản Ổ Cứng:</string>
+    <string name="version">Phiên Bản:</string>
+    <string name="message">Thông Báo:</string>
+    <string name="welcome_banner"></string>
+    <string name="soft_version">Phiên Bản Phần Mềm:</string>
+    <string name="broswer">Internet</string>
+    <string name="file">Quản Lý Tập Tin</string>
+    <string name="video">Video</string>
+    <string name="settings">Cài Đặt</string>
+    <string name="gallery">Thư Viện</string>
+    <string name="music">Nhạc</string>
+    <string name="download">Tải Xuống</string>
+    <string name="appstore">Kho Ứng Dụng</string>
+    <string name="app_not_found">Không Tìm Thấy Ứng Dụng</string>
+    <string name="title_alert">Thông Báo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Huỷ Bỏ</string>
+    <string name="jiong">Trang Chính Đầy</string>
+    <string name="prompt">Nhắc Nhở</string>
+    <string name="update">Cập Nhật</string>
+    <string name="index_ad"></string>
+    <string name="startdownload">Tải Xuống Để Cập Nhật</string>
+    <string name="media_center">Media Center</string>
+    <string name="upgrade">Nâng Cấp Moonbox</string>
+    <string name="box_setting">Cài Đặt Moonbox</string>
+    <string name="google_play">Google play</string>
+    <string name="france">français</string>
+    <string name="pree_any_key_to_return">Nhấn Bất Kì Nút Nào Để Về Trang</string>
+    
+    <string name="disclaimer">Trách Nhiệm Pháp Lý</string>
+<string name="disclaimer_content">\u3000\u3000Time TV is a high-definition multimedia player network device based on Android OS(hereinafter referred to as "The device"),which is released by EASY VIDEO INTERNATIONAL LIMITED (hereinafter referred to as "The Company").\n
+			\u3000\u3000In order to get using experience by the device, you may install third-party application(s) from your own resources such as internet.the company is not responsible for any third-party applications related to the correctness, accuracy, and legitimacy of the contents. The users must abide by any applicable laws, regulations, rules or codes accepted in their respective local jurisdictions. Do not install and use any illegal contents such as pornography, violence, and application containing copyright content.\n 
+			\u3000\u3000Thank you for purchasing Time TV.Please send email(service@timetvbox.com) if you have any suggestions,it would be very helpful to improve the device.</string>
+    <string name="agree_disclaimer">Đồng ý</string>
+    <string name="read_disclaimer">Đồng ý</string>
+    <string name="save_mac_fail">Save mac fial!</string>
+	<string name="save_mac_success">Save mac success!</string>
+	<string name="player_null">Please install the player, otherwise unable to play</string>
+	<string name="network_not_connect">Network not connect</string>
+	<string name="ready_play">Ready play</string>
+	<string name="appstore2">App Store</string>
+	<string name="app_position_mgr">Loại ứng dụng máy tính để bàn</string>
+</resources>

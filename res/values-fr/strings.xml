@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time TV</string>
+    <string name="chinese_simple">中文简体</string>
+    <string name="english">English</string>
+    <string name="Vietnamese">tiếng Việt</string>
+    <string name="Chinese_traditional ">中文繁體</string>
+    <string name="japan">日本語</string>
+    <string name="korea">한국의</string>
+    <string name="index">Bureau</string>
+    <string name="apps">Application</string>
+    <string name="app_manager">Gestion application</string>
+    <string name="setting">Parametre</string>
+    <string name="my_moonbox">Time TV</string>
+    <string name="has_to_first">home page!</string>
+    <string name="has_to_last">fin de page!</string>
+    <string name="unstall">desinstaller</string>
+    <string name="to_desktp">deplacer vers bureau</string>
+    <string name="cancel_to_desktp">desinstaller de bureau</string>
+    <string name="desktop_noapp_prompt">S\'il vous plaît choisir l\'application à partir du gestionnaire d\'application est affiché ici</string>
+    <string name="mac">MAC:</string>
+    <string name="hardware_name">materiel:</string>
+    <string name="version">Version:</string>
+    <string name="message">User message:</string>
+    <string name="welcome_banner"></string>
+    <string name="soft_version">version logiciel:</string>
+    <string name="broswer">naviger</string>
+    <string name="file">Explorateur de fichiers</string>
+    <string name="video">video player</string>
+    <string name="settings">parametre system</string>
+    <string name="gallery">my photo gallery</string>
+    <string name="music">my music</string>
+    <string name="download">telechargement</string>
+    <string name="appstore">Google app store</string>
+    <string name="app_not_found">erreur application non installer</string>
+    <string name="title_alert">message alerte</string>
+    <string name="ok">OK</string>
+    <string name="cancel">annuler</string>
+    <string name="jiong">bureau complete stockage max 12 app!</string>
+    <string name="prompt">Prompt</string>
+    <string name="update">mettre a jour</string>
+    <string name="index_ad"></string>
+    <string name="startdownload">debut telechargement fichier apk </string>
+    <string name="media_center">Media Center</string>
+    <string name="upgrade">mise a niveau materiel</string>
+    <string name="box_setting">parametre box</string>
+    <string name="google_play">Google Play</string>
+    <string name="france">français</string>
+    <string name="pree_any_key_to_return">Press any key to return</string>
+
+    <string name="disclaimer">Désistement</string>
+    <string name="disclaimer_content">\u3000\u3000Time TV is a high-definition multimedia player network device based on Android OS(hereinafter referred to as "The device"),which is released by EASY VIDEO INTERNATIONAL LIMITED (hereinafter referred to as "The Company").\n
+			\u3000\u3000In order to get using experience by the device, you may install third-party application(s) from your own resources such as internet.the company is not responsible for any third-party applications related to the correctness, accuracy, and legitimacy of the contents. The users must abide by any applicable laws, regulations, rules or codes accepted in their respective local jurisdictions. Do not install and use any illegal contents such as pornography, violence, and application containing copyright content.\n 
+			\u3000\u3000Thank you for purchasing Time TV.Please send email(service@timetvbox.com) if you have any suggestions,it would be very helpful to improve the device.</string>
+    <string name="agree_disclaimer">D\'accord</string>
+    <string name="read_disclaimer">D\'accord</string>
+    <string name="save_mac_fail">Save mac fial!</string>
+	<string name="save_mac_success">Save mac success!</string>
+	<string name="player_null">Please install the player, otherwise unable to play</string>
+	<string name="network_not_connect">Network not connect</string>
+	<string name="ready_play">Ready play</string>
+	<string name="appstore2">App Store</string>
+</resources>

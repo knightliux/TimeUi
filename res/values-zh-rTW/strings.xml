@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time TV</string>
+    <string name="chinese_simple">中文简体</string>
+    <string name="english">English</string>
+    <string name="Vietnamese">tiếng Việt</string>
+    <string name="Chinese_traditional ">中文繁體</string>
+    <string name="japan">日本語</string>
+    <string name="korea">한국의</string>
+    <string name="index">我的桌面</string>
+    <string name="apps">我的應用</string>
+    <string name="app_manager">桌面管理</string>
+    <string name="setting">設置</string>
+    <string name="my_moonbox">我的Time TV</string>
+    <string name="has_to_first">已經到達首頁</string>
+    <string name="has_to_last">已經到達尾頁</string>
+    <string name="unstall">卸載</string>
+    <string name="to_desktp">置桌面</string>
+    <string name="cancel_to_desktp">取消置桌面</string>
+    <string name="desktop_noapp_prompt">請從應用管理中挑選應用顯示在此處</string>
+    <string name="mac">MAC:</string>
+    <string name="hardware_name">硬件名稱:</string>
+    <string name="version">固件版本:</string>
+    <string name="message">用戶消息：</string>
+    <string name="welcome_banner"></string>
+    <string name="soft_version">軟件版本:</string>
+    <string name="broswer">瀏覽器</string>
+    <string name="file">文件瀏覽器</string>
+    <string name="video">視頻播放器</string>
+    <string name="settings">系統設置</string>
+    <string name="gallery">圖片播放器</string>
+    <string name="music">我的音樂</string>
+    <string name="download">下載管理</string>
+    <string name="appstore">谷歌商城</string>
+    <string name="app_not_found">應用未安裝或者出現錯誤</string>
+    <string name="title_alert">提示信息</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="jiong">桌面已經滿了,最多只能放置四十個應用!</string>
+    <string name="prompt">提示</string>
+    <string name="index_ad"></string>
+    <string name="update">升級</string>
+    <string name="startdownload">開始下載升級包</string>
+    <string name="media_center">媒體中心</string>
+    <string name="upgrade">硬件升級</string>
+    <string name="box_setting">盒子設置</string>
+    <string name="google_play">谷歌商城</string>
+    <string name="france">français</string>
+    <string name="pree_any_key_to_return">按任意鍵返回到列表</string>
+    <string name="disclaimer">免责声明</string>
+    <string name="disclaimer_content">\u3000\u3000Time TV是由易視訊（國際）有限公司（以下稱“本公司”）出品的一款高清多媒體網絡播放器（以下稱“本播放器”），搭載開放的安卓操作系統。\n
+			\u3000\u3000用戶通過本播放器可以安裝使用海量第三方安卓應用，進行各類視、聽及遊戲等應用的體驗，本公司不對用戶安裝應用所包含內容的真實性、准確性、合法性負責。本播放器作為一個開放的載體，安裝的所有應用均來自於互聯網，由用戶自行安裝第三方應用所帶來的後果，與本公司無關，敬請廣大Time TV用戶自覺遵守當地的法律法規，不要安裝使用任何含有色情、暴力、版權爭議及有違當地法律法規的第三方應用。\n
+			\u3000\u3000感謝您選擇Time TV，歡迎新老用戶通過郵件（service@timetvbox.com）與我們互動交流，您們的意見對我們提升產品及服務至關重要。</string>
+    <string name="agree_disclaimer">同意</string>
+    <string name="read_disclaimer">同意</string>
+    <string name="save_mac_fail">保存MAC地址失敗!</string>
+    <string name="save_mac_success">保存MAC地址成功!</string>
+    <string name="player_null">請安裝播放器，否則無法播放視頻</string>
+    <string name="network_not_connect">網絡未連接</string>
+    <string name="ready_play">準備播放</string>
+	<string name="appstore2">應用商城</string>
+	<string name="app_position_mgr">桌面應用排序</string>
+</resources>

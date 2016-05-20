@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/page_moonbox" 
+    >
+
+    <LinearLayout
+        android:id="@id/arrow_left"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/arrow_left" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="1050dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+		<TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/message"
+		    android:textColor="#C0C0C0"
+		    android:textSize="26dp"
+		    android:layout_marginLeft="28dp"
+		    android:layout_marginTop="10dp"
+		    android:layout_marginBottom="10dp"
+		    android:textStyle="bold"/> 
+        <ListView
+            android:id="@id/page_moonbox_listview"
+            android:layout_width="match_parent"
+            android:layout_height="380dp"
+            android:listSelector="@drawable/bg_user_msg_list" 
+            android:divider="@null"
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@id/page_moonbox_msg_page"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/page_bg"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@id/arrow_right"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/arrow_right" />
+    </LinearLayout>
+	
+    <LinearLayout 
+        android:layout_width="1050dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/moonbox_bottom_bg"
+        android:paddingBottom="20dp"
+        android:paddingTop="10dp"
+        >
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            android:text="@string/mac"
+            android:layout_marginLeft="40dp"/>
+        <TextView 
+            android:id="@id/page_moonbox_mac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            /></LinearLayout>
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            android:text="@string/hardware_name"
+            />
+        <TextView 
+            android:id="@id/page_moonbox_hardware"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            /></LinearLayout>
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:layout_marginRight="40dp">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"
+            android:text="@string/version"
+            />
+        <TextView 
+            android:id="@id/page_moonbox_version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_white"
+            android:textSize="22dp"/></LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
